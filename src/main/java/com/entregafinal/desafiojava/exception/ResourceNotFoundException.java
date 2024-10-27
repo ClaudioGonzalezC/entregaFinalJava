@@ -1,4 +1,4 @@
-package com.entregafinal.java.exception;
+package com.entregafinal.desafiojava.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {

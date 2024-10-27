@@ -1,4 +1,4 @@
-package com.entregafinal.java.utils;
+package com.entregafinal.desafiojava.utils;
 
 import lombok.Data;
 

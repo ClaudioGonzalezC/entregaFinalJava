@@ -1,9 +1,9 @@
-package com.entregafinal.java.controller;
+package com.entregafinal.desafiojava.controller;
 
-import com.entregafinal.java.dto.ProductoDTO;
-import com.entregafinal.java.dto.UserDTO;
-import com.entregafinal.java.service.ProductoServiceImpl;
-import com.entregafinal.java.utils.ApiResponseMsg; // Asegúrate de importar ApiResponseMsg
+import com.entregafinal.desafiojava.dto.ProductoDTO;
+import com.entregafinal.desafiojava.dto.UserDTO;
+import com.entregafinal.desafiojava.service.ProductoServiceImpl;
+import com.entregafinal.desafiojava.utils.ApiResponseMsg; // Asegúrate de importar ApiResponseMsg
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import org.springframework.beans.factory.annotation.Autowired;

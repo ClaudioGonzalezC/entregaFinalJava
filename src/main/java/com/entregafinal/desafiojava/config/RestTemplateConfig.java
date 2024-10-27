@@ -1,4 +1,4 @@
-package com.entregafinal.java.config;
+package com.entregafinal.desafiojava.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

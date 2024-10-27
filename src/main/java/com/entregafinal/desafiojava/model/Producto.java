@@ -1,4 +1,4 @@
-package com.entregafinal.java.model;
+package com.entregafinal.desafiojava.model;
 
 import jakarta.persistence.*;
 import lombok.*;

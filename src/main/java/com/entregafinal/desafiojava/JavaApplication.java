@@ -1,12 +1,12 @@
-package com.entregafinal.java;
+package com.entregafinal.desafiojava;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.entregafinal.java.dto.ProductoDTO;
-import com.entregafinal.java.service.ProductoServiceImpl;
+import com.entregafinal.desafiojava.dto.ProductoDTO;
+import com.entregafinal.desafiojava.service.ProductoServiceImpl;
 
 @SpringBootApplication
 public class JavaApplication implements CommandLineRunner {

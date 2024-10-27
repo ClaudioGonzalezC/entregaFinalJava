@@ -1,7 +1,7 @@
-package com.entregafinal.java.mapper;
+package com.entregafinal.desafiojava.mapper;
 
-import com.entregafinal.java.dto.ProductoDTO;
-import com.entregafinal.java.model.Producto;
+import com.entregafinal.desafiojava.dto.ProductoDTO;
+import com.entregafinal.desafiojava.model.Producto;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,7 +1,7 @@
-package com.entregafinal.java.service;
+package com.entregafinal.desafiojava.service;
 
-import com.entregafinal.java.dto.ProductoDTO;
-import com.entregafinal.java.dto.UserDTO;
+import com.entregafinal.desafiojava.dto.ProductoDTO;
+import com.entregafinal.desafiojava.dto.UserDTO;
 
 import java.util.List;
 

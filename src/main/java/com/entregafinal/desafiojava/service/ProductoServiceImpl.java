@@ -1,11 +1,11 @@
-package com.entregafinal.java.service;
+package com.entregafinal.desafiojava.service;
 
-import com.entregafinal.java.mapper.ProductoMapper;
-import com.entregafinal.java.dto.ProductoDTO;
-import com.entregafinal.java.dto.UserDTO;
-import com.entregafinal.java.exception.ResourceNotFoundException;
-import com.entregafinal.java.model.Producto;
-import com.entregafinal.java.repository.ProductoRepository;
+import com.entregafinal.desafiojava.mapper.ProductoMapper;
+import com.entregafinal.desafiojava.dto.ProductoDTO;
+import com.entregafinal.desafiojava.dto.UserDTO;
+import com.entregafinal.desafiojava.exception.ResourceNotFoundException;
+import com.entregafinal.desafiojava.model.Producto;
+import com.entregafinal.desafiojava.repository.ProductoRepository;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import org.springframework.beans.factory.annotation.Autowired;
